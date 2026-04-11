@@ -1,0 +1,12 @@
+{
+  "version": "20260411T041803-f41d94f",
+  "commit_sha": "f41d94fc6d8d8d2bd01af16ea5b8a7204b8f5a00",
+  "published_at": "2026-04-11T04:18:03Z",
+  "bundle_url": "https://davidbuilds.github.io/brand-assets-channel/bundles/20260411T041803-f41d94f/brand-assets-20260411T041803-f41d94f.tar.gz",
+  "sha256": "055e0411567a5502fd44dc160082c325c9b57807c8a5acbf22b056c61bf544a5",
+  "schema_version": 1,
+  "compatibility": {
+    "content-agent": "pass",
+    "post-generator": "pass"
+  }
+}
