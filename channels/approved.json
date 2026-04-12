@@ -1,9 +1,9 @@
 {
-  "version": "20260411T041803-f41d94f",
-  "commit_sha": "f41d94fc6d8d8d2bd01af16ea5b8a7204b8f5a00",
-  "published_at": "2026-04-11T04:18:03Z",
-  "bundle_url": "https://davidbuilds.github.io/brand-assets-channel/bundles/20260411T041803-f41d94f/brand-assets-20260411T041803-f41d94f.tar.gz",
-  "sha256": "055e0411567a5502fd44dc160082c325c9b57807c8a5acbf22b056c61bf544a5",
+  "version": "20260412T184448-6daa50c",
+  "commit_sha": "6daa50c36b0f6fdf5d65cc65fdaf508a84b40c48",
+  "published_at": "2026-04-12T18:44:48Z",
+  "bundle_url": "https://davidbuilds.github.io/brand-assets-channel/bundles/20260412T184448-6daa50c/brand-assets-20260412T184448-6daa50c.tar.gz",
+  "sha256": "b3122c655c5929a8e22a5a87c4e6abb1696d8ee39e47cf7729199bcccd3bdeee",
   "schema_version": 1,
   "compatibility": {
     "content-agent": "pass",
