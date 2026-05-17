@@ -1,9 +1,9 @@
 {
-  "last_attempt_at": "2026-04-12T18:44:48Z",
+  "last_attempt_at": "2026-05-17T19:48:17Z",
   "last_attempt_status": "pass",
-  "last_attempt_version": "20260412T184448-6daa50c",
-  "last_approved_version": "20260412T184448-6daa50c",
-  "last_approved_at": "2026-04-12T18:44:48Z",
+  "last_attempt_version": "20260517T194817-3fcfe03",
+  "last_approved_version": "20260517T194817-3fcfe03",
+  "last_approved_at": "2026-05-17T19:48:17Z",
   "approved_age_hours": 0.0,
   "compatibility": {
     "content-agent": "pass",
