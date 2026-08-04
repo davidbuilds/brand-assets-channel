@@ -1,12 +1,11 @@
 {
-  "last_attempt_at": "2026-05-17T19:48:17Z",
+  "last_attempt_at": "2026-08-04T01:51:21Z",
   "last_attempt_status": "pass",
-  "last_attempt_version": "20260517T194817-3fcfe03",
-  "last_approved_version": "20260517T194817-3fcfe03",
-  "last_approved_at": "2026-05-17T19:48:17Z",
+  "last_attempt_version": "20260804T010000-ab4b539",
+  "last_approved_version": "20260804T010000-ab4b539",
+  "last_approved_at": "2026-08-04T01:51:21Z",
   "approved_age_hours": 0.0,
   "compatibility": {
-    "content-agent": "pass",
-    "post-generator": "pass"
+    "content-agent": "pass"
   }
 }
